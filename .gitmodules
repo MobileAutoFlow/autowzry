@@ -1,0 +1,4 @@
+[submodule "autowzry"]
+	path = autowzry
+	url = git@github.com:cndaqiang/WZRY.git
+	branch = dev
